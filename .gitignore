@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+venv/
+*/.venv/
+*/venv/
+env/
+*/env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.swp
+
+# Secrets (if any - though shouldn't be in this script)
+*.env
+secrets.yaml
