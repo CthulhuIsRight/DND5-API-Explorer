@@ -44,3 +44,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 *   Uses the [requests](https://requests.readthedocs.io/en/latest/) library.
 *   Example usage often demonstrated with the [D&D 5e API](https://www.dnd5eapi.co/).
+*   Linting and PEP 8 regulation done via flake8
