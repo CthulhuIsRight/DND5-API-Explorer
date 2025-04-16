@@ -1,10 +1,10 @@
-# API CLI Explorer
-An interactive command-line interface (CLI) to navigate and explore generic JSON APIs, dynamically fetching endpoints.
+# DND5-API-Explorer
+An interactive command-line interface (CLI) to navigate and explore the D&D JSON API dynamically.
 
 ## Features
 *   Dynamically discovers API endpoints on startup.
 *   Interactive shell (REPL) for querying endpoints.
-*   Lists items available at an endpoint.
+*   Lists items available at a specified endpoint.
 *   Displays full JSON details for a specific item.
 *   Supports multi-word item names/indices.
 *   Basic error handling for API requests.
