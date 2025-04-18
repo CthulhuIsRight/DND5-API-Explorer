@@ -1,5 +1,5 @@
 # DND5-API-Explorer
-An interactive command-line interface (CLI) to navigate and explore the D&D JSON API dynamically.
+An interactive command-line interface (CLI) to navigate and explore the D&D AIP JSON data dynamically.
 
 ## Features
 *   Dynamically discovers API endpoints on startup.
@@ -12,8 +12,8 @@ An interactive command-line interface (CLI) to navigate and explore the D&D JSON
 ## Installation
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
-    cd <repo-name>
+    git clone https://github.com/CthulhuIsRight/DND5-API-Explorer
+    cd DND5-API-Explorer
     ```
 2.  **Create and activate a virtual environment:**
     ```bash
@@ -43,5 +43,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 *   Uses the [requests](https://requests.readthedocs.io/en/latest/) library.
-*   Example usage often demonstrated with the [D&D 5e API](https://www.dnd5eapi.co/).
+*   Example demonstrated with the [D&D 5e API](https://www.dnd5eapi.co/), with some modification, can be used to crawl any API.
 *   Linting and PEP 8 regulation done via flake8
