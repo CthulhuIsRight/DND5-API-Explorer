@@ -1,5 +1,5 @@
 # DND5-API-Explorer
-An interactive command-line interface (CLI) to navigate and explore the D&D AIP JSON data dynamically.
+An interactive command-line interface (CLI) to navigate and explore the D&D API JSON data dynamically.
 
 ## Features
 *   Dynamically discovers API endpoints on startup.
